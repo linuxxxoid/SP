@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{7D3816E1-D74A-46CD-9564-6FD715DF6282}|Default">
+  <MonoDevelop.Ide.ItemProperties.semenov PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="semenov/Program.cs">
+    <Files>
+      <File FileName="semenov/Program.cs" Line="106" Column="1" />
+      <File FileName="semenov/myGrammar.cs" Line="14" Column="17" />
+      <File FileName="semenov/myAutomate.cs" Line="1" Column="1" />
+      <File FileName="semenov/LLParser.cs" Line="160" Column="37" />
+      <File FileName="semenov/myMP.cs" Line="164" Column="1" />
+      <File FileName="semenov/TranslGrammar.cs" Line="30" Column="35" />
+      <File FileName="semenov/myCompiler.cs" Line="357" Column="1" />
+      <File FileName="semenov/MTable.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

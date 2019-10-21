@@ -1,0 +1,11 @@
+/Users/linuxoid/Projects/semenov/semenov/obj/Debug/netcoreapp2.1/semenov.csprojAssemblyReference.cache
+/Users/linuxoid/Projects/semenov/semenov/obj/Debug/netcoreapp2.1/semenov.csproj.CoreCompileInputs.cache
+/Users/linuxoid/Projects/semenov/semenov/obj/Debug/netcoreapp2.1/semenov.AssemblyInfoInputs.cache
+/Users/linuxoid/Projects/semenov/semenov/obj/Debug/netcoreapp2.1/semenov.AssemblyInfo.cs
+/Users/linuxoid/Projects/semenov/semenov/bin/Debug/netcoreapp2.1/semenov.deps.json
+/Users/linuxoid/Projects/semenov/semenov/bin/Debug/netcoreapp2.1/semenov.runtimeconfig.json
+/Users/linuxoid/Projects/semenov/semenov/bin/Debug/netcoreapp2.1/semenov.runtimeconfig.dev.json
+/Users/linuxoid/Projects/semenov/semenov/bin/Debug/netcoreapp2.1/semenov.dll
+/Users/linuxoid/Projects/semenov/semenov/bin/Debug/netcoreapp2.1/semenov.pdb
+/Users/linuxoid/Projects/semenov/semenov/obj/Debug/netcoreapp2.1/semenov.dll
+/Users/linuxoid/Projects/semenov/semenov/obj/Debug/netcoreapp2.1/semenov.pdb
